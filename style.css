@@ -12,8 +12,10 @@
  Text Domain:  twenty-fifteen-child
 */
 
+@import url("https://www.google.com/fonts#UsePlace:use/Collection:Arimo");
+
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    border-color: #e7e7e7;
+    border-color: #FFFFFF;
     float: right;
 }
  
@@ -26,23 +28,21 @@
 
 
 body{
-	background-color:black;
-		background-image: url("https://newevolutiondesigns.com/images/freebies/cool-wallpaper-2.jpg");								
- 	background-repeat:no-repeat;
- 	background-size:100%;
-
+	background-color:#D32F2F;
+    color:#727272;
 
 
  }
 
+p{
 
+color:#727272; 
+font-size:25px;
 
-
-p {
-	color:white;
-	font-family:cursive;
-	font-size:25px;
 }
+
+
+
 .site-branding{
 	font-size: 12px;
 	padding-bottom: 0px;
@@ -57,16 +57,17 @@ p {
     padding-bottom: 12px;
     padding-top: 12px;
     padding-left: 50px;
+    background-image:url();
 }
 .navbar-default{
 	background-color: transparent;
-background-image: url();
-
+background-image: url("http://searchengineland.com/figz/wp-content/seloads/2013/05/google-japan-city-view-1368186419.jpg");
+background-size:100%;
 }
 
 
 a{
-	 color:yellow;
+	 color:#212121;
 }
 
 a:focus, a:hover {
@@ -74,8 +75,10 @@ a:focus, a:hover {
     text-decoration: none;
 }
 h1{
-	font-size:30px;
-	color:red;
+font-family: 'Open Sans' , sans-serif;
+color:#212121;
+
+
 }
 .custom-style{
 	float:left;
@@ -98,8 +101,9 @@ button, html input[type=button], input[type=reset], input[type=submit] {
 
 
 .navbar-default .navbar-nav>li>a {
-    color: red;
+    color: #FFFFFF;
 }
+
 
 button, input, select, textarea {
     font-family: inherit;
@@ -108,4 +112,5 @@ button, input, select, textarea {
     background-color: gray;
     border-color: red;
 } 
+
 
