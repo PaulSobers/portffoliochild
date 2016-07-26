@@ -1,0 +1,111 @@
+/*
+ Theme Name:   Twenty Fifteen Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     _tk-master 
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    float: right;
+}
+ 
+.navbar-default {
+    background-color: black;
+    border-color: black;
+
+}
+
+
+
+body{
+	background-color:black;
+		background-image: url("https://newevolutiondesigns.com/images/freebies/cool-wallpaper-2.jpg");								
+ 	background-repeat:no-repeat;
+ 	background-size:100%;
+
+
+
+ }
+
+
+
+
+p {
+	color:white;
+	font-family:cursive;
+	font-size:25px;
+}
+.site-branding{
+	font-size: 12px;
+	padding-bottom: 0px;
+	text-align: center;
+
+}
+
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    padding-left: 50px;
+}
+.navbar-default{
+	background-color: transparent;
+background-image: url();
+
+}
+
+
+a{
+	 color:yellow;
+}
+
+a:focus, a:hover {
+    background-color: purple;
+    text-decoration: none;
+}
+h1{
+	font-size:30px;
+	color:red;
+}
+.custom-style{
+	float:left;
+	background-color:transparent;
+}
+.simple-social-icons-2 ul li a, .simple-social-icons ul li a:hover {
+    background-color: purple;
+    border-radius: 3px;
+    color: yellow;
+    border: 0px #ffffff solid !important;
+    font-size: 18px;
+    padding: 9px;
+}
+
+button, html input[type=button], input[type=reset], input[type=submit] {
+    -webkit-appearance: button;
+    cursor: pointer;
+    color: purple;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    color: red;
+}
+
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    background-color: gray;
+    border-color: red;
+} 
+
