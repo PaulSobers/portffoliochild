@@ -29,14 +29,14 @@
 
 body{
 	background-color:#D32F2F;
-    color:#727272;
+    color:#FFE0B2;
 
 
  }
 
 p{
 
-color:#727272; 
+color:#FFE0B2; 
 font-size:25px;
 
 }
@@ -83,6 +83,7 @@ color:#212121;
 .custom-style{
 	float:left;
 	background-color:transparent;
+    padding-bottom:30px;
 }
 .simple-social-icons-2 ul li a, .simple-social-icons ul li a:hover {
     background-color: purple;
