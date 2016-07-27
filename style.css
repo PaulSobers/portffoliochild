@@ -132,3 +132,9 @@ p {
     color: white;
 }
 
+.btn-primary {
+    color: #fff;
+    background-color: #D32F2F;
+    border-color: #D32F2F;
+}
+
