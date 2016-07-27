@@ -71,7 +71,7 @@ a{
 }
 
 a:focus, a:hover {
-    background-color: purple;
+    background-color: #FFCDD2;
     text-decoration: none;
 }
 h1{
