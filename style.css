@@ -97,7 +97,7 @@ color:#212121;
 button, html input[type=button], input[type=reset], input[type=submit] {
     -webkit-appearance: button;
     cursor: pointer;
-    color: purple;
+    color: #FFE0B2;
 }
 
 
@@ -114,4 +114,9 @@ button, input, select, textarea {
     border-color: red;
 } 
 
+p {
+    color: #212121;
+    font-size: 25px;
+    font-family: "Amatic SC";
+    }
 

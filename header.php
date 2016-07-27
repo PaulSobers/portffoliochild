@@ -23,7 +23,7 @@
 
 <body <?php body_class(); ?>>
 	<?php do_action( 'before' ); ?>
-<div class="site-navigation-inner col-sm-12">
+<div class="site-navigation-inner col-sm-14">
 				<div class="navbar navbar-default">
 					<div class="navbar-header">
 						<!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
