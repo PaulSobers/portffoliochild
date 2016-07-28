@@ -144,3 +144,12 @@ p {
     border-color: #D32F2F;
 }
 
+.lead {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.4;
+    letter-spacing: 1px;
+    color: black;
+}
+
