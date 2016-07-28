@@ -71,9 +71,11 @@ a{
 }
 
 a:focus, a:hover {
-    background-color: #FFCDD2;
+    background-color: #D32F2F;
     text-decoration: none;
+    color:#FFFFFF;
 }
+
 h1{
 font-family: 'Open Sans' , sans-serif;
 color:#FFFFFF;
