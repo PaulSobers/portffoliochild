@@ -138,3 +138,9 @@ p {
     border-color: #D32F2F;
 }
 
+.btn-primary:hover {
+    color: #fff;
+    background-color: #D32F2F;
+    border-color: #D32F2F;
+}
+
