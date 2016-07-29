@@ -155,4 +155,7 @@ p {
     letter-spacing: 1px;
     color: black;
 }
-
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: white;
+    background-color: transparent;
+}
