@@ -79,6 +79,7 @@ a:focus, a:hover {
 h1{
 font-family: 'Open Sans' , sans-serif;
 color:#FFFFFF;
+font-size:30px;
 
 
 }
@@ -158,4 +159,9 @@ p {
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
     color: white;
     background-color: transparent;
+}
+
+.paul{
+    font-size:40px;
+
 }

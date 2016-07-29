@@ -51,7 +51,7 @@
 
 					<h1 class="site-title">
 						<img class="custom-style" src="http://localhost:8888/portfolio_paul/wp-content/uploads/2016/07/icon-1.png" alt="" width="200" height="20">
-						<a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
+						<a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home" class="paul"><?php bloginfo( 'name' ); ?></a></h1>
 					<p class="site-description lead"><?php bloginfo( 'description' ); ?></p>
 				</div>
 
