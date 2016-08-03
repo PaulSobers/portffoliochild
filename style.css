@@ -1,5 +1,5 @@
 /*
- Theme Name:   Twenty Fifteen Child
+ Theme Name:   tk-Paul
  Theme URI:    http://example.com/twenty-fifteen-child/
  Description:  Twenty Fifteen Child Theme
  Author:       John Doe
@@ -67,7 +67,7 @@ background-size:100%;
 
 
 a{
-	 color:#FFFFFF;
+	 color:black;
 }
 
 a:focus, a:hover {
